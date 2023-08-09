@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Projects\CricketTeam\ConAppCricketTeam\ConAppCricketTeam\bin\Debug\ConAppCricketTeam.exe.config
+F:\Training Stuff\Dot netTraining\Projects\CricketTeam\ConAppCricketTeam\ConAppCricketTeam\bin\Debug\ConAppCricketTeam.exe
+F:\Training Stuff\Dot netTraining\Projects\CricketTeam\ConAppCricketTeam\ConAppCricketTeam\bin\Debug\ConAppCricketTeam.pdb
+F:\Training Stuff\Dot netTraining\Projects\CricketTeam\ConAppCricketTeam\ConAppCricketTeam\obj\Debug\ConAppCricketTeam.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Projects\CricketTeam\ConAppCricketTeam\ConAppCricketTeam\obj\Debug\ConAppCricketTeam.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Projects\CricketTeam\ConAppCricketTeam\ConAppCricketTeam\obj\Debug\ConAppCricketTeam.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Projects\CricketTeam\ConAppCricketTeam\ConAppCricketTeam\obj\Debug\ConAppCricketTeam.exe
+F:\Training Stuff\Dot netTraining\Projects\CricketTeam\ConAppCricketTeam\ConAppCricketTeam\obj\Debug\ConAppCricketTeam.pdb
